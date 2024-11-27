@@ -1,4 +1,4 @@
-package w08;
+package samples.w08;
 
 import java.util.Random;
 
@@ -50,7 +50,7 @@ public class P1 {
     // int[] arr2 = generate(true);
     // System.out.println("Before quick sort/Lomuto partition");
     // print(arr2);
-    // (new QuickSortLomuto()).quickSort(arr2, 0, arr2.length - 1);
+    // (new QuickSortLomuoutto()).quickSort(arr2, 0, arr2.length - 1);
     // System.out.println("After quick sort/Lomuto partition");
     // print(arr2);
 

@@ -1,4 +1,4 @@
-package w05;
+package samples.w05;
 
 public class P2A {
   public static void main(String[] args) {

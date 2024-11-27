@@ -1,4 +1,4 @@
-package test2_real;
+package samples.test2_real;
 
 public class TriStudentSet {
   Student[] std;

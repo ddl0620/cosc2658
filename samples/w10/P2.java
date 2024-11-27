@@ -1,4 +1,4 @@
-package w10;
+package samples.w10;
 
 import java.util.Random;
 

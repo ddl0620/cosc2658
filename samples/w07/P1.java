@@ -1,4 +1,4 @@
-package w07;
+package samples.w07;
 
 public class P1 {
   public static void main(String[] args) {

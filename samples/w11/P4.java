@@ -1,4 +1,4 @@
-package w11;
+package samples.w11;
 
 public class P4 {
   public static void main(String[] args) {

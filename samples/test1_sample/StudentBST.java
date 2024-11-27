@@ -1,4 +1,4 @@
-package test1_sample;
+package samples.test1_sample;
 
 public class StudentBST {
   StudentNode root;

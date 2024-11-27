@@ -1,4 +1,4 @@
-package w07;
+package samples.w07;
 
 public class P4 {
   int[] board;

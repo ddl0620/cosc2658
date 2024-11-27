@@ -1,4 +1,4 @@
-package w08;
+package samples.w08;
 
 public class P2 {
   public static void main(String[] args) {

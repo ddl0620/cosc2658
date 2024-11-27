@@ -1,4 +1,4 @@
-package w08;
+package samples.w08;
 
 import java.awt.geom.*;
 import java.util.*;

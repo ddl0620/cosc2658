@@ -1,4 +1,4 @@
-package w05;
+package samples.w05;
 
 public class P1 {
   static int[] generate(int size, int max) {

@@ -1,6 +1,6 @@
 package samples.test1_real;
 
-import w03.LinkedList;
+import samples.w03.LinkedList;
 
 public class StudentLinkedList extends LinkedList<Student> {
   // O(N)

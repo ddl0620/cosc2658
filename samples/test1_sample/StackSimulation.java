@@ -1,4 +1,4 @@
-package sample.test1_sample;
+package samples.test1_sample;
 
 public class StackSimulation {
   // popAll complexity = O(N)

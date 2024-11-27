@@ -1,4 +1,4 @@
-package sample.test2_sample;
+package samples.test2_sample;
 
 public class TriDoraemonCake {
   Topic[] topics;

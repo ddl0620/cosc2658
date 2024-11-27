@@ -1,4 +1,4 @@
-package w05;
+package samples.w05;
 
 public class P2B {
   public static void main(String[] args) {

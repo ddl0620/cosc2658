@@ -1,7 +1,7 @@
 package samples.test1_real;
 
-import sample.w04.BinaryTreeNode;
-import sample.w04.BST;
+import samples.w04.BinaryTreeNode;
+import samples.w04.BST;
 
 public class BSTWithSize<T extends Comparable<T>> extends BST<T> {
   // O(N)

@@ -1,6 +1,6 @@
-package w11;
+package samples.w11;
 
-import w03.LinkedListStack;
+import samples.w03.LinkedListStack;
 
 public class P3 {
   public static void main(String[] args) {

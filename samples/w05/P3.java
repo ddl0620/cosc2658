@@ -1,4 +1,4 @@
-package w05;
+package samples.w05;
 
 public class P3 {
   public static void main(String[] args) {

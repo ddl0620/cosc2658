@@ -1,4 +1,4 @@
-package w07;
+package samples.w07;
 
 public class Permutation {
   public static void main(String[] args) {

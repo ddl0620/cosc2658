@@ -1,7 +1,7 @@
-package sample.w04;
+package samples.w04;
 
 import java.util.Random;
-import w03.LinkedListQueue;
+import samples.w03.LinkedListQueue;
 
 public class P1 {
   public static void main(String[] args) {

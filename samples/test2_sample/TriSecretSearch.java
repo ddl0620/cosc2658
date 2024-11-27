@@ -1,4 +1,4 @@
-package test2_sample;
+package samples.test2_sample;
 
 public class TriSecretSearch {
   double XA;

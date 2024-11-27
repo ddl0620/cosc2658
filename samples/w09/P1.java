@@ -1,4 +1,4 @@
-package w09;
+package samples.w09;
 
 public class P1 {
   static int MOD = 1000000007;

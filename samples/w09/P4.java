@@ -1,6 +1,6 @@
-package w09;
+package samples.w09;
 
-import w03.LinkedListQueue;
+import samples.w03.LinkedListQueue;
 
 public class P4 {
   public static void main(String[] args) {

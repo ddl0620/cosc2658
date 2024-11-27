@@ -1,4 +1,4 @@
-package w10;
+package samples.w10;
 
 public class P1 {
   public static void main(String[] args) {

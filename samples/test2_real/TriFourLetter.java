@@ -1,7 +1,7 @@
-package sample.test2_real;
+package samples.test2_real;
 
-import w03.ArrayList;
-import w03.LinkedListQueue;
+import samples.w03.ArrayList;
+import samples.w03.LinkedListQueue;
 
 public class TriFourLetter {
   String start;

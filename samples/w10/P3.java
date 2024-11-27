@@ -1,7 +1,7 @@
-package w10;
+package samples.w10;
 
-import w03.LinkedListQueue;
-import w03.LinkedList;
+import samples.w03.LinkedListQueue;
+import samples.w03.LinkedList;
 
 public class P3 {
   public static void main(String[] args) {

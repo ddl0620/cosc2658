@@ -1,4 +1,4 @@
-package sample.w04;
+package samples.w04;
 
 public class BinaryTreeNode<T extends Comparable<T>> {
   public T data = null;
